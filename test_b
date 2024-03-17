@@ -1,3 +1,7 @@
 hhhhhh
 jjjjjjjjj
 merge_sort_mine
+A = []
+B = []
+counter = 0
+
